@@ -1,0 +1,54 @@
+.root {
+    -fx-background-image: url("http://i.imgur.com/4s3a2zy.jpg");
+    -fx-background-size:cover;
+    -fx-background-color: #3a3636;
+    font-family: "Century Gothic";
+    -fx-font-weight: bold;
+    -fx-text-fill: #555555;
+}
+
+.label {
+    -fx-font-size: 14pt;
+    -fx-font-weight: bold;
+
+}
+
+.custom-label {
+    -fx-font-size: 12pt;
+    -fx-font-weight: bold;
+}
+
+.button{
+    -fx-background-color: linear-gradient( #374558, #1b222e);
+    -fx-text-fill: #dbdbdb;
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#dbdbdb, #5b5b5e);
+    -fx-text-fill: #1b222e;
+}
+
+
+.list-view {
+    -fx-background-color: #374558;
+    -fx-text-fill: #dbdbdb;
+
+}
+
+.list-cell {
+    -fx-background-color: #1b222e;
+    -fx-text-fill: #dbdbdb;
+}
+
+.choice-box {
+    -fx-background-color: linear-gradient( #374558, #1b222e);
+
+}
+
+.choice-box .label{
+    -fx-text-fill: #dbdbdb;
+}
+
+.choice-box .context-menu {
+    -fx-background-color: #1b222e;
+}

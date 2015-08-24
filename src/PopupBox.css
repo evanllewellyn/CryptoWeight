@@ -1,0 +1,18 @@
+.root {
+    -fx-background-image: url("http://i.imgur.com/4s3a2zy.jpg");
+    -fx-background-size:cover;
+    -fx-background-color: #3a3636;
+    font-family: "Century Gothic";
+    -fx-font-weight: bold;
+    -fx-text-fill: #555555;
+}
+
+.button{
+    -fx-background-color: linear-gradient( #374558, #1b222e);
+    -fx-text-fill: #dbdbdb;
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#dbdbdb, #5b5b5e);
+    -fx-text-fill: #1b222e;
+}

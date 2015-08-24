@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="BitcoinPrice:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BitcoinPrice_jar</output-path>
+    <root id="root">
+      <element id="archive" name="BitcoinPrice.jar">
+        <element id="module-output" name="BitcoinPrice" />
+      </element>
+      <element id="library" level="project" name="com.google.code.gson:gson:2.3.1" />
+    </root>
+  </artifact>
+</component>
