@@ -14,18 +14,18 @@ To reduce the number of API calls to Bitcoinchart, CryptoWeight serializes the p
 
 CryptoWeight is loaded with the prices that were last loaded during the previous use. The price data may be updated with the "Update Weighted Prices" button. It will launch a confirm box, as seen below. 
 
-(https://github.com/evanllewellyn/CryptoWeight/blob/master/CryptoWeightpics/updatePic.png)
+![alt text](https://github.com/evanllewellyn/CryptoWeight/blob/master/CryptoWeightpics/updatePic.png "update pic")
 
 Once data has been loaded, the user can select one of the 24 different currencies from the selection menu and push the "Display Weighted Price" button to view the desired prices, as seen below. 
 
-(https://github.com/evanllewellyn/CryptoWeight/blob/master/CryptoWeightpics/currencydisplay.png)
+![alt text](https://github.com/evanllewellyn/CryptoWeight/blob/master/CryptoWeightpics/currencydisplay.png "currencydisplay")
 
 Once the "Display Weighted Price" button has been pushed, the selected currencies data is loaded in the text box, below is an example of British Pound's data loaded. 
 
-(https://github.com/evanllewellyn/CryptoWeight/blob/master/CryptoWeightpics/infodisplay.png)
+![alt text](https://github.com/evanllewellyn/CryptoWeight/blob/master/CryptoWeightpics/infodisplay.png "info display")
 
 If a user is confused about the definition of weighted prices, the "What are Weighted Prices?" button can be selected to load an info box containing information, as seen below. 
 
-(https://github.com/evanllewellyn/CryptoWeight/blob/master/CryptoWeightpics/infobox.png)
+![alt text](https://github.com/evanllewellyn/CryptoWeight/blob/master/CryptoWeightpics/infobox.png "info box")
 
 
