@@ -28,4 +28,4 @@ If a user is confused about the definition of weighted prices, the "What are Wei
 
 ![alt text](https://github.com/evanllewellyn/CryptoWeight/blob/master/CryptoWeightpics/infobox.png "info box")
 
-
+Written by Evan Llewellyn, August 2015.
